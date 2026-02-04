@@ -1,0 +1,1 @@
+/home/villainru/.config/omarchy/current/theme/neovim.lua
